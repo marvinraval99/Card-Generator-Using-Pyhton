@@ -20,4 +20,6 @@ Screenshots:
 
 ![Marvin Raval's Card](https://user-images.githubusercontent.com/31762803/97975492-3a73f800-1def-11eb-8382-9e462768ca8b.png)
 
+The  Output Will be Saved on current directoy.
+
 ## Thanks For Visiting !
